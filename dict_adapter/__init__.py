@@ -1,5 +1,5 @@
 from .sentences import Sentences
-from .sentence_builder import SentencesBuilder
+from .sentences_builder import SentencesBuilder
 
 __all__ = [
     'Sentences',

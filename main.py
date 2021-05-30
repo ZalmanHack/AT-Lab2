@@ -4,7 +4,7 @@ import os
 import time
 
 from dict_adapter.sentences import Sentences
-from dict_adapter.sentence_builder import SentencesBuilder
+from dict_adapter.sentences_builder import SentencesBuilder
 
 
 def run(dictAdapterSentence: Sentences):
